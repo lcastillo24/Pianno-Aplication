@@ -1,7 +1,7 @@
 
 # Pianno Application
 
-<img src="./assets/Imagen_Proyecto.jpg" alt="Piano" width="500">
+<img src="C:\Users\Usuario\Desktop\ProjectsVisual\Pianno-Aplication\assets\Imagen_Proyecto.jpg" alt="Piano" width="500">
 
 
 ## Description
