@@ -1,7 +1,8 @@
 
 # Pianno Application
 
-(./Imagen_del_proyecto.jpg)
+![Piano](./Imagen del proyecto/Imagen del proyecto.jpg)
+
 
 ## Description
 
