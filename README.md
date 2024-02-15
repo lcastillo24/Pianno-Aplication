@@ -1,7 +1,7 @@
 
 # Pianno Application
 
-<img src="\Imagen del proyecto">
+![Pianno Application](./Imagen del proyecto)
 
 ## Description
 
