@@ -1,7 +1,7 @@
 
 # Pianno Application
 
-<img src="C:\Users\Usuario\Desktop\ProjectsVisual\Pianno-Aplication\Imagen del proyecto.png"
+<img src="C:\Users\Usuario\Desktop\ProjectsVisual\Pianno-Aplication\Imagen del proyecto.png">
 
 ## Description
 
