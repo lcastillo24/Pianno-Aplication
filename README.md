@@ -1,7 +1,7 @@
 
 # Pianno Application
 
-<img src=" Imagen del proyecto">
+<img src="\Imagen del proyecto">
 
 ## Description
 
