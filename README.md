@@ -1,7 +1,7 @@
 
 # Pianno Application
 
-<img src=".img/Imagen_Proyecto.png" alt="Piano" width="500">
+<img src="./img/Imagen_Proyecto.png" alt="Piano" width="500">
 
 
 ## Description
