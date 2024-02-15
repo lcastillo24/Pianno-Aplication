@@ -1,7 +1,7 @@
 
 # Pianno Application
 
-![Pianno Application](./Imagen del proyecto)
+![Pianno Application](.C:\Users\Usuario\Desktop\ProjectsVisual\Pianno-Aplication\Imagen del proyecto.jpg)
 
 ## Description
 
