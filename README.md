@@ -1,7 +1,7 @@
 
 # Pianno Application
 
-![Piano](./assets/Imagen_Proyecto.jpg)
+<img src="./assets/Imagen_Proyecto.jpg" alt="Piano" width="500">
 
 
 ## Description
